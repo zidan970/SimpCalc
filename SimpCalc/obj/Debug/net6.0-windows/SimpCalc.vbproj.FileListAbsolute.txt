@@ -1,0 +1,17 @@
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\bin\Debug\net6.0-windows\SimpCalc.exe
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\bin\Debug\net6.0-windows\SimpCalc.deps.json
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\bin\Debug\net6.0-windows\SimpCalc.runtimeconfig.json
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\bin\Debug\net6.0-windows\SimpCalc.dll
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\bin\Debug\net6.0-windows\SimpCalc.pdb
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.vbproj.AssemblyReference.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.Form1.resources
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.vbproj.GenerateResource.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.AssemblyInfoInputs.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.AssemblyInfo.vb
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.vbproj.CoreCompileInputs.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.dll
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\refint\SimpCalc.dll
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.pdb
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\SimpCalc.genruntimeconfig.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 2\SimpCalc\SimpCalc\obj\Debug\net6.0-windows\ref\SimpCalc.dll
